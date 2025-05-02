@@ -1,5 +1,5 @@
 
-# aer-capstone
+# AER-capstone - VM Test
 These files are for 
 1. – Build an environment to run Terraform
 2. – Install the Terraform software and ensure it works properly
